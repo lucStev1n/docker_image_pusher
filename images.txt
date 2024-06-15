@@ -1,1 +1,1 @@
-docker pull rancher/mirrored-pause:3.6.1
+rancher/mirrored-pause:3.6.1
