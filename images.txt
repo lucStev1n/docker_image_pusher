@@ -1,1 +1,1 @@
-apache/rocketmq
+openjdk:8u342-jdk
