@@ -1,1 +1,12 @@
-rancher/mirrored-pause:3.6
+flink
+redis
+mysql
+kafka
+rabbitmq
+postgres
+mongo
+minio/minio
+zookeeper
+elasticsearch
+spark
+apache/hive
