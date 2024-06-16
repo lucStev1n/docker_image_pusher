@@ -8,6 +8,6 @@ mongo
 bitnami/minio 
 bitnami/zookeeper 
 bitnami/elasticsearch 
-kibana 
+bitnami/kibana 
 bitnami/spark 
 apache/hive 
