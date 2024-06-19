@@ -1,13 +1,1 @@
-bitnami/flink 
-bitnami/redis 
-bitnami/mysql 
-bitnami/kafka 
-bitnami/rabbitmq 
-bitnami/postgresql
-mongo 
-bitnami/minio 
-bitnami/zookeeper 
-bitnami/elasticsearch 
-bitnami/kibana 
-bitnami/spark 
-apache/hive 
+selectdb/alpine
