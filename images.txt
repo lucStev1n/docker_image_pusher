@@ -2,3 +2,4 @@ ubuntu
 postgres:17.2
 bitnami/redis
 bitnami/mongodb
+eclipse-temurin:17-jre-jammy
