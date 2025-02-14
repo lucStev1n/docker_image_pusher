@@ -1,1 +1,1 @@
-selectdb/alpine
+ubuntu
