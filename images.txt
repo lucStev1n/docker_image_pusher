@@ -1,1 +1,4 @@
 ubuntu
+postgres:17.2
+bitnami/redis
+bitnami/mongodb
