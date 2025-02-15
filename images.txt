@@ -1,8 +1,1 @@
-gitlab/gitlab-ce
-nginx
-maven:3.9-eclipse-temurin-17
-eclipse-temurin:17-jre-jammy
-bitnami/mongodb
-bitnami/redis
-postgres:17.2
-ubuntu
+gitlab/gitlab-runner
