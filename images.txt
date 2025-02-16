@@ -1,1 +1,1 @@
-registry:2.8.3
+docker:27.5.1
