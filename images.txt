@@ -1,1 +1,1 @@
-docker:27.5.1
+postgres:15.5-alpine
