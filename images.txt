@@ -1,7 +1,1 @@
-redis:7.2.4-alpine
-docker.elastic.co/elasticsearch/elasticsearch:8.12.0
-mongo:7.0
-bitnami/kafka:3.7
-apache/apisix:3.8.0-debian
-bitnami/etcd:latest
-apache/apisix-dashboard:3.0.1
+qdrant/qdrant
