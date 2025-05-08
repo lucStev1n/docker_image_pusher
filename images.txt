@@ -1,1 +1,1 @@
-qdrant/qdrant
+elasticsearch:9.0.0
